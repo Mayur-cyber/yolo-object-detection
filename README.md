@@ -19,3 +19,5 @@ python webcam.py
 - Python 3.13
 - YOLOv8 (Ultralytics)
 - OpenCV
+- # In this, you can also add real-time face and body analysis, as it will make the model more impressive and useful; therefore,it can be used for interviews and many more things. If you want help, I can help you 
+mk 
